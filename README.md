@@ -68,7 +68,6 @@
 <section id="slider">
   <div id="home-carousel" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
-      <div class="item active" style="background-image:url(images/Logo/Free_Sample_By_Wix (1).jfif)">
         <div class="carousel-caption container">
           <div class="row">
             <div class="col-md-7 col-sm-12 col-xs-12">
