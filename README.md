@@ -79,7 +79,6 @@
           </div>
         </div>
       </div>
-      <div class="item" style="background-image:url(images/Slider/Free_Sample_By_Wix (1).jfif)">
         <div class="carousel-caption container">
           <div class="row">
             <div class="col-md-7 col-sm-12 col-xs-12">
